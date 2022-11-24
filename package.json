@@ -1,5 +1,5 @@
 {
-  "name": "ws",
+  "name": "@dosy/ws",
   "version": "8.11.0",
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
   "keywords": [
@@ -10,11 +10,11 @@
     "WebSockets",
     "real-time"
   ],
-  "homepage": "https://github.com/websockets/ws",
-  "bugs": "https://github.com/websockets/ws/issues",
-  "repository": "websockets/ws",
+  "homepage": "https://github.com/dosyago/ws",
+  "bugs": "https://github.com/dosyago/ws/issues",
+  "repository": "dosyago/ws",
   "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "main": "index.js",
   "exports": {
     ".": {
